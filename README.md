@@ -228,7 +228,7 @@ If you have any questions or ideas(projects) about quantum computing, feel free 
 
 <div align=center>
  <a href="https://www.linkedin.com/in/peter-yang-0a1b791b9/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:sqhy2@cam.ac.uk?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="mailto:sqhy2@cam.ac.uk?subject=Hi%Peter%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
 ------
